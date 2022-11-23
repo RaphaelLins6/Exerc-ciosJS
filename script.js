@@ -4,6 +4,12 @@
 3- Calcule a quantidade de horas de uma viagem em dias
 4- Calcule o valor da conta de um restaurante, recebendo o valor principal e calculando 10% do garçom
 5- Calcule quantas horas você já viveu
+
+1- Calculate the double of a number indicated by the user
+2- Calculate the average after requesting two grades from the user
+3- Calculate the number of hours of a trip in days
+4- Calculate the value of a restaurant bill, taking the main amount and calculating 10% from the waiter
+5- Calculate how many hours you have lived
 */
 
 //1-
