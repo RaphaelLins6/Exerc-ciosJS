@@ -1,4 +1,4 @@
-# Exercícios em Javascript
+# Exercícios em Javascript | Exercises in Javascript
 
 ☠️ Esse código foi um exercício da faculdade em que 
 foi pedido para responder 5 questôes de Javascript.
