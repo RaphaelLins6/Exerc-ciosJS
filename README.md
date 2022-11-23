@@ -6,14 +6,15 @@ foi pedido para responder 5 questôes de Javascript.
 ☠️ This code was a faculty exercise in which
 You were asked to answer 5 Javascript questions.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendendo o básico de javascript como operadores 
 aritméticos, de comparação, decisão e funções. 
 
 ☠️ Learning javascript basics like operators
 arithmetic, comparison, decision and functions.
-## Stack utilizada
+
+## Stack utilizada | Stack used
 
 **Front-end:** VS Code | HTML
 
