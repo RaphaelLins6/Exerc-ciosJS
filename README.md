@@ -9,7 +9,7 @@ You were asked to answer 5 Javascript questions.
 ## Aprendizados
 
 ☠️ Aprendendo o básico de javascript como operadores 
-aritmeticos, de comparação, decisão e funções. 
+aritméticos, de comparação, decisão e funções. 
 
 ☠️ Learning javascript basics like operators
 arithmetic, comparison, decision and functions.
